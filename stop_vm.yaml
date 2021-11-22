@@ -7,3 +7,4 @@
         resource_group: "{{ resource_group_name }}"
         name: "{{ vm_name }}"
         allocated: no
+        zones: "{{ zone_number }}"
