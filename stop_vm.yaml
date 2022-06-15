@@ -8,5 +8,5 @@
         name: "{{ vm_name }}"
         location: westus
 #        allocated: no
-        zones: "{{ zone_number }}"
+#        zones: "{{ zone_number }}"
         started: no
