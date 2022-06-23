@@ -9,4 +9,4 @@
         location: "{{ location }}"
 #        allocated: no
 #        zones: "{{ zone_number }}"
-        started: no
+        started: yes
