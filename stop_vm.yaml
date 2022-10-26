@@ -6,7 +6,7 @@
       azure_rm_virtualmachine:
         resource_group: "{{ resource_group_name }}"
         name: "{{ vm_name }}"
-        location: westeu1
+        location: westus2
 #        allocated: no
 #        zones: "{{ zone_number }}"
         started: no
